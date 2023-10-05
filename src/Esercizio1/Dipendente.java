@@ -1,9 +1,6 @@
 package Esercizio1;
 
-import Esercizio1.Dipartimento;
-import Esercizio2.GestioneDipendenti;
-
-public class Dipendente extends GestioneDipendenti {
+public class Dipendente {
    private float stipendioBase = 1000;
    private int matricola;
    private double stipendio;
